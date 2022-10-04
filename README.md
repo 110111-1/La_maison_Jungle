@@ -1,4 +1,5 @@
-# obj : Create canvas of site in React
+# obj : Créer un site modele et réutilisable en React
+Utilisant composants, usestate, hook, jsx
 
 # Getting Started with Create React App
 
